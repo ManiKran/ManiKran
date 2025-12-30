@@ -34,13 +34,9 @@ I design and deploy **end-to-end AI systems** — from data pipelines and ML mod
 
 
 ### 🤝 Let’s Connect
-💼 LinkedIn: YOUR LINK  
-🌐 Portfolio / Blog: YOUR LINK  
-📬 Email: YOUR EMAIL  
-
-### 🤝 Let’s Connect
-💼 LinkedIn: https://www.linkedin.com/in/kiranchatrathi/
-🌐 Portfolio: https://manikiran.online/
+💼 LinkedIn: https://www.linkedin.com/in/kiranchatrathi/  
+🌐 Portfolio / Blog: https://manikiran.online/  
+  
 
 ---
 
